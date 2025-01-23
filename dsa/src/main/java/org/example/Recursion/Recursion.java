@@ -12,11 +12,15 @@ public class Recursion {
     }
 
     static void recursive_number(int n) {
+        //if there is no this check or no base condition then this will go in a endless loop because it will call itself again and again.
         if(n == 5){
             return;
         }
         System.out.println(n);
         recursive_number(n+1);
+
+
+        // when function calls stack in the memory and it exceeds memory size , then it's stack overflow error.
 
     }
 }
