@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
