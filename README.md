@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BarsatKhadka/Java-DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/BarsatKhadka/Java-DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarsatKhadka/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/BarsatKhadka/Java-DSA/tree/master/0228-summary-ranges) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/BarsatKhadka/Java-DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
