@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BarsatKhadka/Java-DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BarsatKhadka/Java-DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarsatKhadka/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/BarsatKhadka/Java-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BarsatKhadka/Java-DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
