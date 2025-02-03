@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
