@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/BarsatKhadka/Java-DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BarsatKhadka/Java-DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/BarsatKhadka/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/BarsatKhadka/Java-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/BarsatKhadka/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/BarsatKhadka/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 ## Simulation
