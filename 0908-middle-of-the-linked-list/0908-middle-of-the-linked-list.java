@@ -13,15 +13,11 @@ class Solution {
         //if a slow person runs 5km and fast runs 10km , then slow is at middle
         ListNode slowPointer = head;
         ListNode fastPointer = head;
-        while(fastPointer.next!=null){
-            if(fastPointer.next.next ==null){
-                fastPointer = fastPointer.next;
-                slowPointer = slowPointer.next;
-            }
-            else{
+        while(fastPointer!= null && fastPointer.next!=null){
+            
             fastPointer = fastPointer.next.next;
             slowPointer = slowPointer.next;
-            }
+            
         }
         return slowPointer;
         
