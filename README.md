@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/BarsatKhadka/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
