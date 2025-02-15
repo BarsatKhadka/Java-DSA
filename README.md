@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0014-longest-common-prefix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
