@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BarsatKhadka/Java-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
