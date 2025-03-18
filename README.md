@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/BarsatKhadka/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/BarsatKhadka/Java-DSA/tree/master/1297-maximum-number-of-balloons) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0344-reverse-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/BarsatKhadka/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/BarsatKhadka/Java-DSA/tree/master/1297-maximum-number-of-balloons) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BarsatKhadka/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/BarsatKhadka/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
 ## Stack
