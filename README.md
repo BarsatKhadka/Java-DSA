@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0228-summary-ranges](https://github.com/BarsatKhadka/Java-DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/BarsatKhadka/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/BarsatKhadka/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/BarsatKhadka/Java-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/BarsatKhadka/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
