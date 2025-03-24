@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0238-product-of-array-except-self](https://github.com/BarsatKhadka/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0232-implement-queue-using-stacks](https://github.com/BarsatKhadka/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -197,4 +199,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
