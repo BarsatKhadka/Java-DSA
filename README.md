@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
 | [2350-find-closest-number-to-zero](https://github.com/BarsatKhadka/Java-DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -200,4 +202,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
