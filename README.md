@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
+| [2195-time-needed-to-buy-tickets](https://github.com/BarsatKhadka/Java-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/BarsatKhadka/Java-DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
+| [2195-time-needed-to-buy-tickets](https://github.com/BarsatKhadka/Java-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/BarsatKhadka/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [2195-time-needed-to-buy-tickets](https://github.com/BarsatKhadka/Java-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |
