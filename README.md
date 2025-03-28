@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0206-reverse-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0143-reorder-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
+| [2573-remove-nodes-from-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -206,4 +209,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/BarsatKhadka/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
