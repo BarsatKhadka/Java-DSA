@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/BarsatKhadka/Java-DSA/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/BarsatKhadka/Java-DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/BarsatKhadka/Java-DSA/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/BarsatKhadka/Java-DSA/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
