@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0503-next-greater-element-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/BarsatKhadka/Java-DSA/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BarsatKhadka/Java-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/BarsatKhadka/Java-DSA/tree/master/0940-fruit-into-baskets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/BarsatKhadka/Java-DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BarsatKhadka/Java-DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
