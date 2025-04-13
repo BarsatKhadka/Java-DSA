@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BarsatKhadka/Java-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/BarsatKhadka/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BarsatKhadka/Java-DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BarsatKhadka/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/BarsatKhadka/Java-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BarsatKhadka/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/BarsatKhadka/Java-DSA/tree/master/0383-ransom-note) |
