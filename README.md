@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
+| [2383-add-two-integers](https://github.com/BarsatKhadka/Java-DSA/tree/master/2383-add-two-integers) |
 ## Trie
 |  |
 | ------- |
