@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BarsatKhadka/Java-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BarsatKhadka/Java-DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/BarsatKhadka/Java-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [2383-add-two-integers](https://github.com/BarsatKhadka/Java-DSA/tree/master/2383-add-two-integers) |
 ## Trie
