@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/BarsatKhadka/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0092-reverse-linked-list-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BarsatKhadka/Java-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/BarsatKhadka/Java-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
