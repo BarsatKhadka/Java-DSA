@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/BarsatKhadka/Java-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BarsatKhadka/Java-DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/BarsatKhadka/Java-DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarsatKhadka/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0013-roman-to-integer](https://github.com/BarsatKhadka/Java-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/BarsatKhadka/Java-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BarsatKhadka/Java-DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [2383-add-two-integers](https://github.com/BarsatKhadka/Java-DSA/tree/master/2383-add-two-integers) |
