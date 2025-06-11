@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BarsatKhadka/Java-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BarsatKhadka/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/BarsatKhadka/Java-DSA/tree/master/0228-summary-ranges) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0142-linked-list-cycle-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BarsatKhadka/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/BarsatKhadka/Java-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/BarsatKhadka/Java-DSA/tree/master/0283-move-zeroes) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/BarsatKhadka/Java-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BarsatKhadka/Java-DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/BarsatKhadka/Java-DSA/tree/master/2383-add-two-integers) |
