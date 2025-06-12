@@ -2,18 +2,19 @@ class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k%n;
-        int []arr1 = Arrays.copyOfRange(nums, 0 , n-k);
-        int []arr2 = Arrays.copyOfRange(nums , n-k, nums.length);
-        int []resultArr = new int[nums.length];
-        int index = 0;
-        for(int i : arr2){
-            nums[index++] = i;
-        }
-        for(int i : arr1){
-            nums[index++] = i;
-        }
-
-
+        reverseArr(nums, 0 , n-1);
+        reverseArr(nums , 0 , k-1);
+        reverseArr(nums , k, n-1);
         
+    }
+
+    public static void reverseArr(int[] arr , int start ,int end){
+        while(start <= end){
+        int temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+        start++;
+        end--;
+        }
     }
 }
