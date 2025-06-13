@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/BarsatKhadka/Java-DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2195-time-needed-to-buy-tickets](https://github.com/BarsatKhadka/Java-DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/BarsatKhadka/Java-DSA/tree/master/2350-find-closest-number-to-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/BarsatKhadka/Java-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BarsatKhadka/Java-DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/BarsatKhadka/Java-DSA/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/BarsatKhadka/Java-DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Trie
 |  |
 | ------- |
