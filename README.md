@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0111-minimum-depth-of-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BarsatKhadka/Java-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0111-minimum-depth-of-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BarsatKhadka/Java-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0111-minimum-depth-of-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/BarsatKhadka/Java-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
