@@ -13,7 +13,7 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
-        ListNode left = head;
+        ListNode left = dummy;
         ListNode right = head;
 
         int count =1;
@@ -29,7 +29,7 @@ class Solution {
 
         left.next = left.next.next;
 
-        return dummy;
+        return dummy.next;
 
 
 
