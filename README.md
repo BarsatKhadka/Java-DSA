@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BarsatKhadka/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BarsatKhadka/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/BarsatKhadka/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BarsatKhadka/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BarsatKhadka/Java-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/BarsatKhadka/Java-DSA/tree/master/0392-is-subsequence) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/BarsatKhadka/Java-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/BarsatKhadka/Java-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BarsatKhadka/Java-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/BarsatKhadka/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BarsatKhadka/Java-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/BarsatKhadka/Java-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BarsatKhadka/Java-DSA/tree/master/0202-happy-number) |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BarsatKhadka/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BarsatKhadka/Java-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
